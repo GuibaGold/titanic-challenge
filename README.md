@@ -5,6 +5,10 @@
 -  vizualizar qual o padrão dos passageiros que sobreviveram
 -  Colocar em gráfico os dados da analise de sobreviventes
 
+# Modelo Árvore de Decisões
+- Métrica utilizada: f1 score
+- Features escolhidas são as que demonstraram maior 
+
 
 #Conclusões sobre os dados
 
